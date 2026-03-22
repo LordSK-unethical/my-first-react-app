@@ -8,7 +8,7 @@ const Card = () => {
 
 const App = () => {
   return (
-      <div>
+      <div className="card-container">
         <h1>Welcome to React APP</h1>
 
         <Card/>
